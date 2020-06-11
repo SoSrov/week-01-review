@@ -11,7 +11,7 @@ Students will fork and clone. Then we will add to the repo together
 * Style by referencing the link, and by using an element
 * Style, Link
 # Question 5: how many ways can you declare a variable
-* Using var; var myString = "hello"; var myNumber = 1993;
-* Using let; let b; b='hello';
-* Using Const.; const pie=3.14;     
+* Using **var**; **var** myString = "hello"; var myNumber = 1993;
+* Using **let**; **let** b; b='hello';
+* Using **Const.**; **const** pie=3.14;     
 * (I took these off the internet)
