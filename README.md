@@ -5,3 +5,5 @@ Students will fork and clone. Then we will add to the repo together
 *   Git remote -v
 # Question 2: how many students are in or were in the Air Force
 * two
+# Question 3: how many and what parts are in an html document
+*There are three types; line containing HTML, head, and body 
