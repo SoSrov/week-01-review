@@ -7,3 +7,5 @@ Students will fork and clone. Then we will add to the repo together
 * two
 # Question 3: how many and what parts are in an html document
 *There are three parts; line containing HTML, head, and body 
+# Question 4: There are two ways to reference css in the header
+*Style by referencing the link, and by using an element
